@@ -227,7 +227,7 @@ input {
 /* 6. Page Styles
 ======================================== */
 .page-hero-header {
-  background-color: #BFBFBF; 
+  background-color: #BFBFBF;
   background-image: url('images/saturn-background.svg');
   background-position: center;
   background-repeat: no-repeat;
@@ -322,7 +322,7 @@ input {
     margin: 0 0 20px;
   }
   .main-content-info {
-    background-image: url('images/space-image.jpg');
+    background-image: url('https://s3.amazonaws.com/codecademy-content/programs/ui-design/color-theory-lesson/color-theory-image-1.jpg');
     background-repeat: no-repeat;
     background-position: center left;
     background-size:50%;
